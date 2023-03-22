@@ -1,0 +1,13 @@
+
+
+-sS | SYN Scan
+-sU | UDP Scan
+-sT | TCP Scan
+-O  | Check Operating System
+-sV | Check working services
+-v  | Verbose (up to 3 v's)
+-oA/N/G -> Save in major formats or normal (txt), grepeable
+-A  | Aggresive mode
+-TX | Where X is a number between 1 and 5, 5 is very fast, recommended to use a lower number to prevent DDoS or alert IPS.
+-p X| Check X number or X-X to check between those 2 numbers, to check all ports is -p-
+--script -> To execute scripts with nmap
