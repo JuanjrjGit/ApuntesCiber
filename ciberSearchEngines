@@ -1,0 +1,11 @@
+Shodan.io -> Devices connected to internet
+wiglet.net -> Database of wireless networks plus statistics
+greynoise.io -> Same as Shodan
+virustotal.com -> Analysis of files(malware), domains, ips
+urlscan.io -> Analysis of websites, Id rather use virus total but we could get other results.
+waybackmachine -> <web.archive.org> A must to check old websites
+osintframework.com -> A recopilation of many OSINT tools
+hunter.io -> Get email addresses related to a website.
+dnsdumpster.com -> Recon, research, find and lookup DNS Records
+explotdb-db.com -> A must to check if a service is exploitable.
+cve.mitre.org -> Vulnerabilities recopilation
