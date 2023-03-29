@@ -1,10 +1,10 @@
 
-
+-sC | Scripts Default
 -sS | SYN Scan
 -sU | UDP Scan
 -sT | TCP Scan
 -O  | Check Operating System
--sV | Check working services
+-sV | Check working servichttps://github.com/mishakorzik/AdminHackes
 -v  | Verbose (up to 3 v's)
 -oA/N/G -> Save in major formats or normal (txt), grepeable
 -A  | Aggresive mode
